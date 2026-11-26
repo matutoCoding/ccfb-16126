@@ -13,6 +13,9 @@ credentials*.json
 .npmrc
 .pypirc
 node_modules/
+dist/
+verify-output.txt
+smoke-*.png
 __pycache__/
 .venv/
 venv/
